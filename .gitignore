@@ -98,3 +98,4 @@ UpgradeLog*.XML
 
 # Additional
 .vs/
+*/[Dd]ebug/
