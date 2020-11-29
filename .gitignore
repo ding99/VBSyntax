@@ -99,3 +99,5 @@ UpgradeLog*.XML
 # Additional
 .vs/
 */[Dd]ebug/
+*/[Bb]in/
+*/[Oo]bj/
